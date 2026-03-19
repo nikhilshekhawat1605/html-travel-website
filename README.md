@@ -2,6 +2,14 @@
 
 # 7 Page of Basic HTML Website.
 
+1.Index.html
+2.TravelBlog.html
+3.TravelTrips.html
+4.Destinations.html
+5.Contact.html
+6.Registrations.html
+7.Login.html
+
 - 1.Index.html
   📷 ![alt text](image.png)
 - 2.TravelBlog.html
